@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    padding: 0 2rem;
+    background-color: var(--mainColor);
+    color: var(--textColor);
+    font-family: 'Oswald', sans-serif;
+}
+
+.logo {
+    background-color: #61dafb;
+    background-image: url("../assets/Logo.svg");
+}

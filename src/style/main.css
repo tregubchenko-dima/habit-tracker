@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --mainColor: #ffffff;
+    --mainColorLight: #123456;
+    --secondaryColor: #654321;
+    --textColor: #626262;
+    --bodyColor: #e5e5e5;
+}
